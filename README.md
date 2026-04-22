@@ -1,4 +1,5 @@
 Autonomous Mobile Robot (AMR) - Navigation & Control
+
 📌 Project Overview
 This project focuses on building an Autonomous Mobile Robot (AMR) capable of navigating indoor environments. The robot utilizes a combination of LiDAR for mapping, an ESP32 for central processing, and a fusion of IMU/Encoder data for precise movement control.
 The goal is to provide a reliable solution for automated material transport in smart factories or hospitals.
